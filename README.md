@@ -18,13 +18,15 @@ Ao ingressar na faculdade de publicidade e propaganda, na Universidade Veiga de 
 
 <h2>Competências</h2>
 <ul>
+  <li>React</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Javascript</li>
   <li>Wordpress</li>
   <li>Webflow</li>
   <li>Marketing</li>
-  <li>Web Design Responsivo</li>
+  <li>Design Responsivo</li>
 </ul>
 
 <h3>Redes Sociais</h3>
