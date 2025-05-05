@@ -1,5 +1,5 @@
 <h2>TRANSFORMANDO IDEIAS EM REALIDADE VISUAL.</h2>
-<i>Designer Gráfico | Videomaker | Fotógrafo | Webdesigner</i>
+<i>Front-End Developer | React | JavaScript | TypeScript | HTML | CSS</i>
 <br><br>
 Profissional graduado em Publicidade e Propaganda. Experiência em desenvolvimento de projetos audiovisuais desde 2011, iniciando a carreira como web designer e designer gráfico, e a partir de 2014, trabalha como videomaker na filmagem e edição de vídeos e, também, com fotografia.
 
